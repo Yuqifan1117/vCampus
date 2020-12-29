@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/client/login=UTF-8
+encoding//src/client/login/Logout.java=UTF-8
+encoding//src/client/login/Regist.java=UTF-8
+encoding//src/client/login/StuMF.java=UTF-8
+encoding//src/client/login/TeacherMF.java=UTF-8
+encoding//src/client/login/UserManage.java=UTF-8
+encoding//src/client/selectCourse=UTF-8
+encoding//src/client/selectCourse/admCourseAdd_old.java=UTF-8
+encoding//src/model=UTF-8
+encoding//src/vcampus/server/dao=UTF-8
+encoding//src/vcampus/server/socket/ServerSocketThread.java=UTF-8
